@@ -10,5 +10,6 @@
        - Ordinary Diffential Equation (ODE)
        - Euler 's Method
        - Newton 's Method
-       - Unconstraint Optimization --> Penalty Function Method and so on
+       - Unconstraint Optimization --> Penalty Function Method 
+       - and so on
        
